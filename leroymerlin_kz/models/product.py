@@ -13,7 +13,7 @@ class Product(models.Model):
     price = fields.Monetary(string='Price', currency_field='currency_id')
     currency_id = fields.Many2one('res.currency',string='Currency')
     quantity = fields.Integer(string='Quantity')
-    description = fields.Char(string='Description')
+    description = fields.Text(string='Description')
     specialorder = fields.Boolean(string='Is Special Order')
 
     _sql_constraints = [('productnumber_check', 'UNIQUE (productnumber)','Product ID must be unique.')]
