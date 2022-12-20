@@ -1,0 +1,986 @@
+{
+    "products": [
+        {
+            "ID": 243658,
+            "UF_ARTICUL": 82203070,
+            "UF_NAME_RU": "Трубка для цифрового подъездного домофона Fox FX-HS1D цвет белый",
+            "UF_NAME_KZ": "",
+            "UF_CODE": "trubka-dlya-cifrovogo-podezdnogo-domofona-fox-fx-hs1d",
+            "UF_WEIGHT": 0.26,
+            "UF_EXTRABIG": 0,
+            "UF_GYPS": 0,
+            "UF_SIZE": 0,
+            "UF_GAMMA": "B",
+            "UF_RATING": null,
+            "UF_PRO": 0,
+            "UF_UDA20": 1,
+            "UF_STM_CODE": null,
+            "UF_HIDDEN": 0,
+            "UF_COUNTRY_CODE": null,
+            "UF_TYPE": 20,
+            "UF_SECTION": 639,
+            "UF_COMPLIMENTS": "18549309,49000002,18549317,11512300,82167949",
+            "UF_BRAND_NAME": null,
+            "UF_COLLECTION_NAME": null,
+            "UF_REVIEWS_COUNT": null,
+            "UF_DATE_ADDED": 1577815200,
+            "UF_ESTORE_ONLY": 0,
+            "UF_NAME": "Трубка для цифрового подъездного домофона Fox FX-HS1D цвет белый",
+            "POPULARITY": 1215,
+            "PRICE": 8750,
+            "DISPLAY_PRICES": [
+                {
+                    "value": 8750,
+                    "value_formatted": "8 750</span>",
+                    "unit": "шт.",
+                    "unit_formatted": "шт.",
+                    "is_main": true
+                }
+            ],
+            "NEW_PRODUCT": false,
+            "URL": "/product/trubka-dlya-cifrovogo-podezdnogo-domofona-fox-fx-hs1d-82203070/",
+            "IMAGES_SRC": {
+                "158x158": [
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/7/7/158x158/82203070.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/7/7/158x158/82203070_01.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/7/7/158x158/82203070_mp4.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/7/7/158x158/82203070_mp4_01.jpg"
+                ]
+            },
+            "props": {
+                "ID": 245923,
+                "UF_ARTICUL": 82203070,
+                "UF_VALUES": [
+                    {
+                        "UDA": 1511,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 13377,
+                        "VALUE": "АУДИОТРУБКА ЦИФРОВАЯ FOX FX-HS1D"
+                    },
+                    {
+                        "UDA": 21155,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 1306,
+                        "VALUE": "9.5"
+                    },
+                    {
+                        "UDA": 1307,
+                        "VALUE": "5.5"
+                    },
+                    {
+                        "UDA": 1308,
+                        "VALUE": "22.1"
+                    },
+                    {
+                        "UDA": 52,
+                        "VALUE": "FOX FX-HS1D"
+                    },
+                    {
+                        "UDA": 124,
+                        "VALUE": "0.2"
+                    },
+                    {
+                        "UDA": 3041,
+                        "VALUE": "19.6"
+                    },
+                    {
+                        "UDA": 3042,
+                        "VALUE": "4.5"
+                    },
+                    {
+                        "UDA": 3040,
+                        "VALUE": "8.5"
+                    },
+                    {
+                        "UDA": 1953,
+                        "VALUE": "Аудиоотрубка и монтажный комплект"
+                    },
+                    {
+                        "UDA": 1305,
+                        "VALUE": "0.26"
+                    },
+                    {
+                        "UDA": 10837,
+                        "VALUE": "Белый"
+                    },
+                    {
+                        "UDA": 22186,
+                        "VALUE": "Русский"
+                    },
+                    {
+                        "UDA": 22187,
+                        "VALUE": "Русский"
+                    },
+                    {
+                        "UDA": 7252,
+                        "VALUE": "Комфорт и автоматизация доступа"
+                    },
+                    {
+                        "UDA": 10844,
+                        "VALUE": "Китай"
+                    },
+                    {
+                        "UDA": 22088,
+                        "VALUE": "Аудио трубка цифровая"
+                    },
+                    {
+                        "UDA": 21268,
+                        "VALUE": "Коробка"
+                    },
+                    {
+                        "UDA": 9914,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 3043,
+                        "VALUE": "Пластик"
+                    },
+                    {
+                        "UDA": 15344,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 22228,
+                        "VALUE": "Да"
+                    },
+                    {
+                        "UDA": 25627,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 25126,
+                        "VALUE": "2"
+                    },
+                    {
+                        "UDA": 26187,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 25139,
+                        "VALUE": "0.0"
+                    },
+                    {
+                        "UDA": 26664,
+                        "VALUE": "0"
+                    },
+                    {
+                        "UDA": 17017,
+                        "VALUE": "0"
+                    },
+                    {
+                        "UDA": 25674,
+                        "VALUE": "Нет"
+                    }
+                ]
+            },
+            "current_region_data": {
+                "ID": 1075032,
+                "UF_ARTICUL": 82203070,
+                "UF_REGION": 26,
+                "UF_PRICE": "8750.00",
+                "UF_POPULARITY": 1215,
+                "UF_SORT": 0,
+                "UF_ESTORE": 0,
+                "UF_BUTTON_BUY": 0,
+                "UF_EKITCHEN_COLLECTION": "",
+                "UF_COUNT": 8,
+                "UF_OLD_PRICE": null,
+                "UF_DATE_UPDATE": null
+            },
+            "FIRST_IMAGES_SRC": {
+                "158x158": "https://s.leroymerlin.kz/upload/catalogue/product_images/7/7/158x158/82203070.jpg"
+            },
+            "DIVISION": "Электротовары",
+            "SUBDIVISION": "Дверные звонки и домофоны",
+            "SECTION_NAME": "Трубки для домофона",
+            "SHOW_OLD_PRICE": false,
+            "OLD_PRICE": null,
+            "COLOR": "not set",
+            "MATERIAL": "not set",
+            "UF_WIDTH": 95,
+            "UF_HEIGHT": 55,
+            "UF_LENGTH": 221,
+            "AVAILABLE": true,
+            "MIN_VALUE": null
+        },
+        {
+            "ID": 272909,
+            "UF_ARTICUL": 82303106,
+            "UF_NAME_RU": "Трубка для координатного подъездного домофона Fox FX-HS1A цвет черный",
+            "UF_NAME_KZ": "",
+            "UF_CODE": "trubka-dlya-koordinatnogo-podezdnogo-domofona-fox-fx-hs1a",
+            "UF_WEIGHT": 0.254,
+            "UF_EXTRABIG": 0,
+            "UF_GYPS": 0,
+            "UF_SIZE": 0,
+            "UF_GAMMA": "A",
+            "UF_RATING": null,
+            "UF_PRO": 0,
+            "UF_UDA20": 1,
+            "UF_STM_CODE": null,
+            "UF_HIDDEN": 0,
+            "UF_COUNTRY_CODE": null,
+            "UF_TYPE": 20,
+            "UF_SECTION": 639,
+            "UF_COMPLIMENTS": "18549309,49000002,18549317,11512300,82167948",
+            "UF_BRAND_NAME": "FOX",
+            "UF_COLLECTION_NAME": null,
+            "UF_REVIEWS_COUNT": null,
+            "UF_DATE_ADDED": 1577815200,
+            "UF_ESTORE_ONLY": 0,
+            "UF_NAME": "Трубка для координатного подъездного домофона Fox FX-HS1A цвет черный",
+            "POPULARITY": 1001,
+            "PRICE": 7720,
+            "DISPLAY_PRICES": [
+                {
+                    "value": 7720,
+                    "value_formatted": "7 720</span>",
+                    "unit": "шт.",
+                    "unit_formatted": "шт.",
+                    "is_main": true
+                }
+            ],
+            "NEW_PRODUCT": false,
+            "URL": "/product/trubka-dlya-koordinatnogo-podezdnogo-domofona-fox-fx-hs1a-82303106/",
+            "IMAGES_SRC": {
+                "158x158": [
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/5/7/158x158/82303106.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/5/7/158x158/82303106_01.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/5/7/158x158/82303106_02.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/5/7/158x158/82303106_03.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/5/7/158x158/82303106_mp4.jpg"
+                ]
+            },
+            "props": {
+                "ID": 275170,
+                "UF_ARTICUL": 82303106,
+                "UF_VALUES": [
+                    {
+                        "UDA": 13377,
+                        "VALUE": "АУДИОТРУБКА КООРДИНАТ FOX FX-HS1A ЧЕРНАЯ"
+                    },
+                    {
+                        "UDA": 6575,
+                        "VALUE": "FOX"
+                    },
+                    {
+                        "UDA": 21155,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 1306,
+                        "VALUE": "9.9"
+                    },
+                    {
+                        "UDA": 1307,
+                        "VALUE": "5.4"
+                    },
+                    {
+                        "UDA": 1308,
+                        "VALUE": "22.2"
+                    },
+                    {
+                        "UDA": 52,
+                        "VALUE": "FOX FX-HS1A"
+                    },
+                    {
+                        "UDA": 124,
+                        "VALUE": "0.2"
+                    },
+                    {
+                        "UDA": 3041,
+                        "VALUE": "19.6"
+                    },
+                    {
+                        "UDA": 3042,
+                        "VALUE": "4.5"
+                    },
+                    {
+                        "UDA": 3040,
+                        "VALUE": "8.5"
+                    },
+                    {
+                        "UDA": 5885,
+                        "VALUE": "Черный"
+                    },
+                    {
+                        "UDA": 15536,
+                        "VALUE": "Предназначена для работы с подъездными панелями, типа Визит, Raikmann, ELTIS, CYFRAL, МЕТАКОМ"
+                    },
+                    {
+                        "UDA": 1953,
+                        "VALUE": "Аудиоотрубка и монтажный комплект"
+                    },
+                    {
+                        "UDA": 1305,
+                        "VALUE": "0.254"
+                    },
+                    {
+                        "UDA": 10844,
+                        "VALUE": "Китай"
+                    },
+                    {
+                        "UDA": 10837,
+                        "VALUE": "Черный"
+                    },
+                    {
+                        "UDA": 22186,
+                        "VALUE": "Русский"
+                    },
+                    {
+                        "UDA": 22187,
+                        "VALUE": "Русский"
+                    },
+                    {
+                        "UDA": 7252,
+                        "VALUE": "Комфорт и автоматизация доступа"
+                    },
+                    {
+                        "UDA": 9524,
+                        "VALUE": "Картон"
+                    },
+                    {
+                        "UDA": 15573,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 22088,
+                        "VALUE": "Аудио трубка координатная"
+                    },
+                    {
+                        "UDA": 21268,
+                        "VALUE": "Коробка"
+                    },
+                    {
+                        "UDA": 9914,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 3043,
+                        "VALUE": "Пластик"
+                    },
+                    {
+                        "UDA": 15344,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 22228,
+                        "VALUE": "Да"
+                    },
+                    {
+                        "UDA": 16677,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 25126,
+                        "VALUE": "3.0"
+                    },
+                    {
+                        "UDA": 25627,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 26187,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 25139,
+                        "VALUE": "0"
+                    },
+                    {
+                        "UDA": 26664,
+                        "VALUE": "0"
+                    },
+                    {
+                        "UDA": 17017,
+                        "VALUE": "0"
+                    },
+                    {
+                        "UDA": 25674,
+                        "VALUE": "Нет"
+                    }
+                ]
+            },
+            "current_region_data": {
+                "ID": 1347847,
+                "UF_ARTICUL": 82303106,
+                "UF_REGION": 26,
+                "UF_PRICE": "7720.00",
+                "UF_POPULARITY": 1001,
+                "UF_SORT": 0,
+                "UF_ESTORE": 0,
+                "UF_BUTTON_BUY": 0,
+                "UF_EKITCHEN_COLLECTION": "",
+                "UF_COUNT": 1,
+                "UF_OLD_PRICE": null,
+                "UF_DATE_UPDATE": null
+            },
+            "FIRST_IMAGES_SRC": {
+                "158x158": "https://s.leroymerlin.kz/upload/catalogue/product_images/5/7/158x158/82303106.jpg"
+            },
+            "DIVISION": "Электротовары",
+            "SUBDIVISION": "Дверные звонки и домофоны",
+            "SECTION_NAME": "Трубки для домофона",
+            "SHOW_OLD_PRICE": false,
+            "OLD_PRICE": null,
+            "COLOR": "not set",
+            "MATERIAL": "not set",
+            "UF_WIDTH": 99,
+            "UF_HEIGHT": 54,
+            "UF_LENGTH": 222,
+            "AVAILABLE": true,
+            "MIN_VALUE": null
+        },
+        {
+            "ID": 243657,
+            "UF_ARTICUL": 82203069,
+            "UF_NAME_RU": "Трубка для координатного подъездного домофона Fox FX-HS1A цвет белый",
+            "UF_NAME_KZ": "",
+            "UF_CODE": "trubka-dlya-koordinatnogo-podezdnogo-domofona-fox-fx-hs1a",
+            "UF_WEIGHT": 0.28,
+            "UF_EXTRABIG": 0,
+            "UF_GYPS": 0,
+            "UF_SIZE": 0,
+            "UF_GAMMA": "B",
+            "UF_RATING": null,
+            "UF_PRO": 0,
+            "UF_UDA20": 1,
+            "UF_STM_CODE": null,
+            "UF_HIDDEN": 0,
+            "UF_COUNTRY_CODE": null,
+            "UF_TYPE": 20,
+            "UF_SECTION": 639,
+            "UF_COMPLIMENTS": "18549309,49000002,18549317,11512300,82167948",
+            "UF_BRAND_NAME": "FOX",
+            "UF_COLLECTION_NAME": null,
+            "UF_REVIEWS_COUNT": null,
+            "UF_DATE_ADDED": 1577815200,
+            "UF_ESTORE_ONLY": 0,
+            "UF_NAME": "Трубка для координатного подъездного домофона Fox FX-HS1A цвет белый",
+            "POPULARITY": 994,
+            "PRICE": 7230,
+            "DISPLAY_PRICES": [
+                {
+                    "value": 7230,
+                    "value_formatted": "7 230</span>",
+                    "unit": "шт.",
+                    "unit_formatted": "шт.",
+                    "is_main": true
+                }
+            ],
+            "NEW_PRODUCT": false,
+            "URL": "/product/trubka-dlya-koordinatnogo-podezdnogo-domofona-fox-fx-hs1a-82203069/",
+            "IMAGES_SRC": {
+                "158x158": [
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/d/7/158x158/82203069.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/d/7/158x158/82203069_01.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/d/7/158x158/82203069_02.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/d/7/158x158/82203069_03.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/d/7/158x158/82203069_mp4.jpg"
+                ]
+            },
+            "props": {
+                "ID": 245922,
+                "UF_ARTICUL": 82203069,
+                "UF_VALUES": [
+                    {
+                        "UDA": 1511,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 13377,
+                        "VALUE": "АУДИОТРУБКА КООРДИНАТНАЯ FOX FX-HS1A"
+                    },
+                    {
+                        "UDA": 21155,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 1306,
+                        "VALUE": "9.6"
+                    },
+                    {
+                        "UDA": 1307,
+                        "VALUE": "22.4"
+                    },
+                    {
+                        "UDA": 1308,
+                        "VALUE": "5.8"
+                    },
+                    {
+                        "UDA": 52,
+                        "VALUE": "FOX FX-HS1A"
+                    },
+                    {
+                        "UDA": 124,
+                        "VALUE": "0.2"
+                    },
+                    {
+                        "UDA": 3041,
+                        "VALUE": "19.6"
+                    },
+                    {
+                        "UDA": 3042,
+                        "VALUE": "4.5"
+                    },
+                    {
+                        "UDA": 3040,
+                        "VALUE": "8.5"
+                    },
+                    {
+                        "UDA": 1953,
+                        "VALUE": "Аудиоотрубка и монтажный комплект"
+                    },
+                    {
+                        "UDA": 1305,
+                        "VALUE": "0.28"
+                    },
+                    {
+                        "UDA": 10837,
+                        "VALUE": "Белый"
+                    },
+                    {
+                        "UDA": 22186,
+                        "VALUE": "Русский"
+                    },
+                    {
+                        "UDA": 22187,
+                        "VALUE": "Русский"
+                    },
+                    {
+                        "UDA": 7252,
+                        "VALUE": "Комфорт и автоматизация доступа"
+                    },
+                    {
+                        "UDA": 10844,
+                        "VALUE": "Китай"
+                    },
+                    {
+                        "UDA": 22088,
+                        "VALUE": "Аудио трубка координатная"
+                    },
+                    {
+                        "UDA": 21268,
+                        "VALUE": "Коробка"
+                    },
+                    {
+                        "UDA": 9914,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 3043,
+                        "VALUE": "Пластик"
+                    },
+                    {
+                        "UDA": 15344,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 22228,
+                        "VALUE": "Да"
+                    },
+                    {
+                        "UDA": 25126,
+                        "VALUE": "3.0"
+                    },
+                    {
+                        "UDA": 5885,
+                        "VALUE": "Белый"
+                    },
+                    {
+                        "UDA": 25627,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 9524,
+                        "VALUE": "Картон"
+                    },
+                    {
+                        "UDA": 26187,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 6575,
+                        "VALUE": "FOX"
+                    },
+                    {
+                        "UDA": 25139,
+                        "VALUE": "0"
+                    },
+                    {
+                        "UDA": 26664,
+                        "VALUE": "0"
+                    },
+                    {
+                        "UDA": 17017,
+                        "VALUE": "0"
+                    },
+                    {
+                        "UDA": 25674,
+                        "VALUE": "Нет"
+                    }
+                ]
+            },
+            "current_region_data": {
+                "ID": 1075046,
+                "UF_ARTICUL": 82203069,
+                "UF_REGION": 26,
+                "UF_PRICE": "7230.00",
+                "UF_POPULARITY": 994,
+                "UF_SORT": 0,
+                "UF_ESTORE": 0,
+                "UF_BUTTON_BUY": 0,
+                "UF_EKITCHEN_COLLECTION": "",
+                "UF_COUNT": 1,
+                "UF_OLD_PRICE": null,
+                "UF_DATE_UPDATE": null
+            },
+            "FIRST_IMAGES_SRC": {
+                "158x158": "https://s.leroymerlin.kz/upload/catalogue/product_images/d/7/158x158/82203069.jpg"
+            },
+            "DIVISION": "Электротовары",
+            "SUBDIVISION": "Дверные звонки и домофоны",
+            "SECTION_NAME": "Трубки для домофона",
+            "SHOW_OLD_PRICE": false,
+            "OLD_PRICE": null,
+            "COLOR": "not set",
+            "MATERIAL": "not set",
+            "UF_WIDTH": 96,
+            "UF_HEIGHT": 224,
+            "UF_LENGTH": 58,
+            "AVAILABLE": true,
+            "MIN_VALUE": null
+        },
+        {
+            "ID": 230353,
+            "UF_ARTICUL": 82152887,
+            "UF_NAME_RU": "Трубка для домофона Skybeam IPBOX 2 с Wi-Fi цвет белый",
+            "UF_NAME_KZ": "IP трубка с Wifi",
+            "UF_CODE": "ip-trubka-s-wifi",
+            "UF_WEIGHT": 0.532,
+            "UF_EXTRABIG": 0,
+            "UF_GYPS": 0,
+            "UF_SIZE": 0,
+            "UF_GAMMA": "B",
+            "UF_RATING": null,
+            "UF_PRO": 0,
+            "UF_UDA20": 1,
+            "UF_STM_CODE": "",
+            "UF_HIDDEN": 0,
+            "UF_COUNTRY_CODE": "",
+            "UF_TYPE": 20,
+            "UF_SECTION": 639,
+            "UF_COMPLIMENTS": "18549309",
+            "UF_BRAND_NAME": "SKYBEAM",
+            "UF_COLLECTION_NAME": "",
+            "UF_REVIEWS_COUNT": null,
+            "UF_DATE_ADDED": 1577815200,
+            "UF_ESTORE_ONLY": 0,
+            "UF_NAME": "Трубка для домофона Skybeam IPBOX 2 с Wi-Fi цвет белый",
+            "POPULARITY": 993,
+            "PRICE": 54310,
+            "DISPLAY_PRICES": [
+                {
+                    "value": 54310,
+                    "value_formatted": "54 310</span>",
+                    "unit": "шт.",
+                    "unit_formatted": "шт.",
+                    "is_main": true
+                }
+            ],
+            "NEW_PRODUCT": false,
+            "URL": "/product/ip-trubka-s-wifi-82152887/",
+            "IMAGES_SRC": {
+                "158x158": [
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/5/c/158x158/82152887.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/5/c/158x158/82152887_01.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/5/c/158x158/82152887_02.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/5/c/158x158/82152887_03.jpg",
+                    "https://s.leroymerlin.kz/upload/catalogue/product_images/5/c/158x158/82152887_04.jpg"
+                ]
+            },
+            "props": {
+                "ID": 232621,
+                "UF_ARTICUL": 82152887,
+                "UF_VALUES": [
+                    {
+                        "UDA": 1511,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 13377,
+                        "VALUE": "IP ТРУБКА SKYBEAM С WI-FI"
+                    },
+                    {
+                        "UDA": 21155,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 1306,
+                        "VALUE": "13"
+                    },
+                    {
+                        "UDA": 1307,
+                        "VALUE": "26.6"
+                    },
+                    {
+                        "UDA": 1308,
+                        "VALUE": "8.4"
+                    },
+                    {
+                        "UDA": 22014,
+                        "VALUE": "60.0"
+                    },
+                    {
+                        "UDA": 131,
+                        "VALUE": "12.0"
+                    },
+                    {
+                        "UDA": 552,
+                        "VALUE": "10"
+                    },
+                    {
+                        "UDA": 1226,
+                        "VALUE": "Устройство позволяет подключить вызывную панель аналогово видеодомофона, управлять вызовом (включая открытие электромеханического замка (при наличии)) с вызывной панели по аудиоканалу непосредственно с устройства, а так же управлять вызовом путем подключения к устройству мобильных устройств через WIFI включая передачу видеоизображения на мобильные устройства."
+                    },
+                    {
+                        "UDA": 15536,
+                        "VALUE": "Продукт совместим с аналоговыми 4-х проводными вызывными панелями используемыми с видеодомофонами"
+                    },
+                    {
+                        "UDA": 1305,
+                        "VALUE": "0.532"
+                    },
+                    {
+                        "UDA": 52,
+                        "VALUE": "IP трубка с Wifi"
+                    },
+                    {
+                        "UDA": 7632,
+                        "VALUE": "50.0"
+                    },
+                    {
+                        "UDA": 3042,
+                        "VALUE": "45.0"
+                    },
+                    {
+                        "UDA": 20155,
+                        "VALUE": "4"
+                    },
+                    {
+                        "UDA": 21116,
+                        "VALUE": "220.0"
+                    },
+                    {
+                        "UDA": 5885,
+                        "VALUE": "белый"
+                    },
+                    {
+                        "UDA": 6962,
+                        "VALUE": "Подключение мобильных устройств через WIFI без покупки WiFI видеодомофона"
+                    },
+                    {
+                        "UDA": 1953,
+                        "VALUE": "Домофон (трубка с базой), блок питания, монтажная площадка, крепеж, инструкция"
+                    },
+                    {
+                        "UDA": 10837,
+                        "VALUE": "Белый"
+                    },
+                    {
+                        "UDA": 22187,
+                        "VALUE": "Русский"
+                    },
+                    {
+                        "UDA": 22186,
+                        "VALUE": "Русский"
+                    },
+                    {
+                        "UDA": 10844,
+                        "VALUE": "Китай"
+                    },
+                    {
+                        "UDA": 15573,
+                        "VALUE": "Да"
+                    },
+                    {
+                        "UDA": 10840,
+                        "VALUE": "Не определено"
+                    },
+                    {
+                        "UDA": 15537,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 460,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 21148,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 606,
+                        "VALUE": "Сетевое питание"
+                    },
+                    {
+                        "UDA": 16677,
+                        "VALUE": "Да"
+                    },
+                    {
+                        "UDA": 6575,
+                        "VALUE": "SKYBEAM"
+                    },
+                    {
+                        "UDA": 16333,
+                        "VALUE": "Да"
+                    },
+                    {
+                        "UDA": 22088,
+                        "VALUE": "Трубка IP c Wi-Fi"
+                    },
+                    {
+                        "UDA": 21268,
+                        "VALUE": "Коробка"
+                    },
+                    {
+                        "UDA": 9914,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 1580,
+                        "VALUE": "Сетевое питание"
+                    },
+                    {
+                        "UDA": 3043,
+                        "VALUE": "Пластик"
+                    },
+                    {
+                        "UDA": 2380,
+                        "VALUE": "Да"
+                    },
+                    {
+                        "UDA": 7252,
+                        "VALUE": "Комфорт и автоматизация доступа"
+                    },
+                    {
+                        "UDA": 15344,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 124,
+                        "VALUE": "0.532"
+                    },
+                    {
+                        "UDA": 25127,
+                        "VALUE": "Электротовары"
+                    },
+                    {
+                        "UDA": 9524,
+                        "VALUE": "Картон"
+                    },
+                    {
+                        "UDA": 25627,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 26187,
+                        "VALUE": "Нет"
+                    },
+                    {
+                        "UDA": 25139,
+                        "VALUE": "0.0"
+                    },
+                    {
+                        "UDA": 26664,
+                        "VALUE": "0"
+                    },
+                    {
+                        "UDA": 17017,
+                        "VALUE": "1"
+                    },
+                    {
+                        "UDA": 25674,
+                        "VALUE": "Да"
+                    }
+                ]
+            },
+            "current_region_data": {
+                "ID": 980241,
+                "UF_ARTICUL": 82152887,
+                "UF_REGION": 26,
+                "UF_PRICE": "54310.00",
+                "UF_POPULARITY": 993,
+                "UF_SORT": 0,
+                "UF_ESTORE": 0,
+                "UF_BUTTON_BUY": 0,
+                "UF_EKITCHEN_COLLECTION": "",
+                "UF_COUNT": 1,
+                "UF_OLD_PRICE": "44110.00",
+                "UF_DATE_UPDATE": "2022-11-02 16:52:45"
+            },
+            "FIRST_IMAGES_SRC": {
+                "158x158": "https://s.leroymerlin.kz/upload/catalogue/product_images/5/c/158x158/82152887.jpg"
+            },
+            "DIVISION": "Электротовары",
+            "SUBDIVISION": "Дверные звонки и домофоны",
+            "SECTION_NAME": "Трубки для домофона",
+            "SHOW_OLD_PRICE": false,
+            "OLD_PRICE": "44110.00",
+            "COLOR": "not set",
+            "MATERIAL": "not set",
+            "UF_WIDTH": 130,
+            "UF_HEIGHT": 266,
+            "UF_LENGTH": 84,
+            "AVAILABLE": true,
+            "MIN_VALUE": null
+        }
+    ],
+    "productsCount": 4,
+    "allFiltersOptions": {
+        "0": [
+            7230,
+            54310
+        ],
+        "-1": [
+            {
+                "value": "Нет",
+                "selected": false,
+                "count": 4
+            }
+        ],
+        "6575": [
+            {
+                "value": "FOX",
+                "selected": false,
+                "count": 2
+            },
+            {
+                "value": "SKYBEAM",
+                "selected": false,
+                "count": 1
+            }
+        ],
+        "5885": [
+            {
+                "value": "Белый",
+                "selected": false,
+                "count": 1
+            },
+            {
+                "value": "Черный",
+                "selected": false,
+                "count": 1
+            },
+            {
+                "value": "белый",
+                "selected": false,
+                "count": 1
+            }
+        ]
+    }
+}
