@@ -1,7 +1,7 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_catalog_user,catalog_user,model_catalog,group_user,1,0,0,0
-access_catalog_admin,catalog_admin,model_catalog,group_admin,1,1,1,1
-access_product_user,product_user,model_product,group_user,1,0,0,0
-access_product_admin,product_admin,model_product,group_admin,1,1,1,1
-access_detail_user,detail_user,model_detail,group_user,1,0,0,0
-access_detail_admin,detail_admin,model_detail,group_admin,1,1,1,1
+access_catalog_user,catalog_user,model_leroymerlinkz_catalog,group_user,1,0,0,0
+access_catalog_admin,catalog_admin,model_leroymerlinkz_catalog,group_admin,1,1,1,1
+access_product_user,product_user,model_leroymerlinkz_product,group_user,1,0,0,0
+access_product_admin,product_admin,model_leroymerlinkz_product,group_admin,1,1,1,1
+access_detail_user,detail_user,model_leroymerlinkz_detail,group_user,1,0,0,0
+access_detail_admin,detail_admin,model_leroymerlinkz_detail,group_admin,1,1,1,1

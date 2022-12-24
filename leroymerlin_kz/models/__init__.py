@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
 
-from . import catalog
-from . import product
-from . import detail
+from . import leroymerlinkz_catalog
+from . import leroymerlinkz_product
+from . import leroymerlinkz_detail

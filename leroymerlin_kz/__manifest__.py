@@ -10,14 +10,14 @@
     """,
     
     'category': 'Uncategorized',
-    'version': '13.0.1.0.0',
+    'version': '13.0.2.0.0',
 
     # any module necessary for this one to work correctly
     'depends': ['base'],
 
     # always loaded
     'data': [
-        'security/groups.xml',
+        'security/leroymerlinkz_groups.xml',
         'security/ir.model.access.csv',
         'views/leroymerlin.xml',
     ],

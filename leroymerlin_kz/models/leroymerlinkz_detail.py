@@ -3,10 +3,10 @@
 from odoo import models, fields, api
 
 
-class Detail(models.Model):
+class LeroymerlinkzDetail(models.Model):
     
-    _name = 'detail'
-    _description = 'Detail'
+    _name = 'leroymerlinkz.detail'
+    _description = 'Leroymerlin.kz Details'
 
     productnumber = fields.Char(string='Product ID')
     detail = fields.Char(string='Detail')

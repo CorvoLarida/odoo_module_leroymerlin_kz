@@ -3,10 +3,10 @@
 from odoo import models, fields, api
 
 
-class Catalog(models.Model):
+class LeroymerlinkzCatalog(models.Model):
     
-    _name = 'catalog'
-    _description = 'Catalog'
+    _name = 'leroymerlinkz.catalog'
+    _description = 'Leroymerlin.kz Catalog'
     
     productnumber = fields.Char(string='Product ID')
     categorylv1 = fields.Char(string='First Category')

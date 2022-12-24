@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-<!-- Data records go here -->
-    <record id='catalog_action' model='ir.actions.act_window'>
+
+    <record id='leroymerlinkz_catalog_action' model='ir.actions.act_window'>
         <field name="name">Catalog</field>
-        <field name="res_model">catalog</field>
+        <field name="res_model">leroymerlinkz.catalog</field>
         <field name="view_mode">tree</field>
     </record>
 
-    <record id='product_action' model='ir.actions.act_window'>
-        <field name="name">Product</field>
-        <field name="res_model">product</field>
-        <field name="view_mode">tree</field>
+    <record id='leroymerlinkz_product_action' model='ir.actions.act_window'>
+        <field name="name">Products</field>
+        <field name="res_model">leroymerlinkz.product</field>
+        <field name="view_mode">tree,form,kanban</field>
     </record>
 
-    <record id='detail_action' model='ir.actions.act_window'>
-        <field name="name">Detail</field>
-        <field name="res_model">detail</field>
+    <record id='leroymerlinkz_detail_action' model='ir.actions.act_window'>
+        <field name="name">Details</field>
+        <field name="res_model">leroymerlinkz.detail</field>
         <field name="view_mode">tree</field>
     </record>
 
@@ -29,26 +29,26 @@
         name="Catalog"
         id="leroymerlin_catalog_menu"
         parent="leroymerlin_base_menu"
-        action="catalog_action"
+        action="leroymerlinkz_catalog_action"
         />
 
     <menuitem 
         name="Products"
         id="leroymerlin_products_menu"
         parent="leroymerlin_base_menu"
-        action="product_action"
+        action="leroymerlinkz_product_action"
         />
 
     <menuitem 
         name="Details"
         id="leroymerlin_details_menu"
         parent="leroymerlin_base_menu"
-        action="detail_action"
+        action="leroymerlinkz_detail_action"
         />    
 
-    <record id="catalog_view_tree" model="ir.ui.view">
-        <field name="name">Catalog</field>
-        <field name="model">catalog</field>
+    <record id="leroymerlinkz_catalog_view_tree" model="ir.ui.view">
+        <field name="name">Leroymerlinkz Catalog Tree</field>
+        <field name="model">leroymerlinkz.catalog</field>
         <field name="arch" type="xml">
             <tree>
                 <field name="productnumber"/>
@@ -59,9 +59,9 @@
         </field>
     </record>
 
-    <record id="products_view_tree" model="ir.ui.view">
-        <field name="name">Products</field>
-        <field name="model">product</field>
+    <record id="leroymerlinkz_products_view_tree" model="ir.ui.view">
+        <field name="name">Leroymerlinkz Products Tree</field>
+        <field name="model">leroymerlinkz.product</field>
         <field name="arch" type="xml">
             <tree>
                 <field name="productnumber"/>
@@ -69,15 +69,76 @@
                 <field name="price"/>
                 <field name="currency_id" invisible='1'/>
                 <field name="quantity"/>
-                <field name="description"/>
-                <field name="specialorder"/>
             </tree>
         </field>
     </record>
 
-    <record id="details_view_form" model="ir.ui.view">
-        <field name="name">Details</field>
-        <field name="model">detail</field>
+    <record id="leroymerlinkz_products_view_form" model="ir.ui.view">
+        <field name="name">Leroymerlinkz Products Form</field>
+        <field name="model">leroymerlinkz.product</field>
+        <field name="arch" type="xml">
+            <form>
+                <group>
+                    <group>
+                        <field name="productnumber"/>
+                        <field name="name"/>
+                    </group>
+                    <group>
+                        <field name="price"/>
+                        <field name="currency_id" invisible='1'/>
+                        <field name="quantity"/>
+                        <field name="specialorder"/>
+                    </group>
+                </group>
+                <group>
+                    <field name="description"/>
+                </group>
+            </form>
+        </field>
+    </record>
+
+    <record id="leroymerlinkz_products_view_kanban" model="ir.ui.view">
+        <field name="name">Leroymerlinkz Products Kanban</field>
+        <field name="model">leroymerlinkz.product</field>
+        <field name="arch" type="xml">
+            <kanban>
+                <field name="productnumber"/>
+                <field name="name"/>
+                <field name="price"/>
+                <field name="quantity"/>
+                <templates>
+                    <t t-name="kanban-box">
+                        <div t-attf-class="oe_kanban_card oe_kanban_global_click">
+                            <div class="o_kanban_record_top mb16">
+                                <div class="o_kanban_record_headings">
+                                    <strong><field name="productnumber"/></strong>
+                                </div>
+                                <div> 
+                                    <strong>Price: <field name="price" options="{'currency_field': 'currency_id'}"/></strong>
+                                    <field name="currency_id" invisible='1'/>                                                                                               
+                                </div>      
+                            </div>
+                            <div>
+                                <field name="name"/>
+                            </div>
+                            <div class="o_kanban_record_bottom">
+                                <div class="oe_kanban_bottom_left"> 
+
+                                </div>                                   
+                                <div class="oe_kanban_bottom_right">
+                                    <strong>Quantity: <field name="quantity"/></strong>
+                                </div>
+                            </div>
+                        </div>
+                    </t>
+                </templates>
+            </kanban>
+        </field>
+    </record>
+
+    <record id="leroymerlinkz_details_view_tree" model="ir.ui.view">
+        <field name="name">Leroymerlinkz Details Tree</field>
+        <field name="model">leroymerlinkz.detail</field>
         <field name="arch" type="xml">
             <tree>
                 <field name="productnumber"/>
@@ -87,9 +148,9 @@
         </field>
     </record>
 
-    <record id="catalog_view_search" model="ir.ui.view">
-        <field name="name">Catalog Search</field>
-        <field name="model">catalog</field>
+    <record id="leroymerlinkz_catalog_view_search" model="ir.ui.view">
+        <field name="name">Leroymerlinkz Catalog Search</field>
+        <field name="model">leroymerlinkz.catalog</field>
         <field name="arch" type="xml">
             <search>
                 <field name="productnumber"/>
@@ -100,9 +161,9 @@
         </field>
     </record>
 
-    <record id="product_view_search" model="ir.ui.view">
-        <field name="name">Product Search</field>
-        <field name="model">product</field>
+    <record id="leroymerlinkz_product_view_search" model="ir.ui.view">
+        <field name="name">Leroymerlinkz Products Search</field>
+        <field name="model">leroymerlinkz.product</field>
         <field name="arch" type="xml">
             <search>
                 <field name="productnumber"/>
@@ -115,9 +176,9 @@
         </field>
     </record>
 
-    <record id="detail_view_search" model="ir.ui.view">
-        <field name="name">Detail Search</field>
-        <field name="model">detail</field>
+    <record id="leroymerlinkz_detail_view_search" model="ir.ui.view">
+        <field name="name">Leroymerlinkz Details Search</field>
+        <field name="model">leroymerlinkz.detail</field>
         <field name="arch" type="xml">
             <search>
                 <field name="productnumber"/>
