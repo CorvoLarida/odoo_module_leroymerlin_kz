@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
 
-    <record id='leroymerlinkz_catalog_action' model='ir.actions.act_window'>
-        <field name="name">Catalog</field>
-        <field name="res_model">leroymerlinkz.catalog</field>
-        <field name="view_mode">tree</field>
-    </record>
-
-    <record id='leroymerlinkz_product_action' model='ir.actions.act_window'>
-        <field name="name">Products</field>
-        <field name="res_model">leroymerlinkz.product</field>
-        <field name="view_mode">tree,form,kanban</field>
-    </record>
-
-    <record id='leroymerlinkz_detail_action' model='ir.actions.act_window'>
-        <field name="name">Details</field>
-        <field name="res_model">leroymerlinkz.detail</field>
-        <field name="view_mode">tree</field>
-    </record>
-
-
     <menuitem
         name="Leroymerlin"
         id="leroymerlin_base_menu"
@@ -186,6 +167,24 @@
                 <field name="value"/>
             </search>
         </field>
+    </record>
+
+    <record id='leroymerlinkz_catalog_action' model='ir.actions.act_window'>
+        <field name="name">Catalog</field>
+        <field name="res_model">leroymerlinkz.catalog</field>
+        <field name="view_mode">tree</field>
+    </record>
+
+    <record id='leroymerlinkz_product_action' model='ir.actions.act_window'>
+        <field name="name">Products</field>
+        <field name="res_model">leroymerlinkz.product</field>
+        <field name="view_mode">tree,form,kanban</field>
+    </record>
+
+    <record id='leroymerlinkz_detail_action' model='ir.actions.act_window'>
+        <field name="name">Details</field>
+        <field name="res_model">leroymerlinkz.detail</field>
+        <field name="view_mode">tree</field>
     </record>
 
 </odoo>
