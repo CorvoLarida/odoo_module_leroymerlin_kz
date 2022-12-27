@@ -1,32 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
 
-    <menuitem
-        name="Leroymerlin"
-        id="leroymerlin_base_menu"
-        />
-
-    <menuitem 
-        name="Catalog"
-        id="leroymerlin_catalog_menu"
-        parent="leroymerlin_base_menu"
-        action="leroymerlinkz_catalog_action"
-        />
-
-    <menuitem 
-        name="Products"
-        id="leroymerlin_products_menu"
-        parent="leroymerlin_base_menu"
-        action="leroymerlinkz_product_action"
-        />
-
-    <menuitem 
-        name="Details"
-        id="leroymerlin_details_menu"
-        parent="leroymerlin_base_menu"
-        action="leroymerlinkz_detail_action"
-        />    
-
     <record id="leroymerlinkz_catalog_view_tree" model="ir.ui.view">
         <field name="name">Leroymerlinkz Catalog Tree</field>
         <field name="model">leroymerlinkz.catalog</field>
@@ -186,5 +160,31 @@
         <field name="res_model">leroymerlinkz.detail</field>
         <field name="view_mode">tree</field>
     </record>
+
+    <menuitem
+        name="Leroymerlin"
+        id="leroymerlin_base_menu"
+        />
+
+    <menuitem 
+        name="Catalog"
+        id="leroymerlin_catalog_menu"
+        parent="leroymerlin_base_menu"
+        action="leroymerlinkz_catalog_action"
+        />
+
+    <menuitem 
+        name="Products"
+        id="leroymerlin_products_menu"
+        parent="leroymerlin_base_menu"
+        action="leroymerlinkz_product_action"
+        />
+
+    <menuitem 
+        name="Details"
+        id="leroymerlin_details_menu"
+        parent="leroymerlin_base_menu"
+        action="leroymerlinkz_detail_action"
+        />    
 
 </odoo>
